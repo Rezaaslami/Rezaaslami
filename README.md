@@ -1,6 +1,6 @@
 # 💫 About Me:
 Welcome To My Github Page ;<br>My name Is Reza AsLami And I Working With React&Node.js<br>
-.
+..
 ## 🌐 Socials:
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Reza_Aslami50)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@maziar_101](https://instagram.com/reza_aslami_2004)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/reza-aslami/) 
 
