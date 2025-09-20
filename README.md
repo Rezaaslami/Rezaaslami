@@ -1,5 +1,5 @@
-.ممممممممممم...............
-# 💫 About Me:...........
+
+# 💫 About Me:
 Welcome To My Github Page ;<br>My name Is Reza AsLami And I Working With React&Node.js<br>
 
 ## 🌐 Socials:
